@@ -2,7 +2,6 @@
 
 A professional automation scheduler for vMix live streaming software — similar to vTask — built with Python and the Flet GUI framework.
 
-[Screenshot](icecast-radio-bar.png)
 ![Alt Text](https://github.com/kraiosis/vChronos/blob/main/assets/vChronos_v1.0.png)
 ---
 
