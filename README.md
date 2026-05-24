@@ -50,7 +50,7 @@ pip install -r requirements.txt
 # 3. Run
 python main.py
 
-# 4. Compile (Optional - requires Pyinstalle)
+# 4. Compile (Optional - requires Pyinstaller)
 flet pack main.py --icon assets/icon.ico
 ```
 
