@@ -198,6 +198,6 @@ FadeToBlack
 ## vMix API Reference
 
 This app uses the vMix Web API documented at:
-https://www.vmix.com/help26/WebAPIReference.html
+[https://www.vmix.com/help26/WebAPIReference.html](https://www.vmix.com/help25/index.htm?DeveloperAPI.html)
 
 All API calls are standard HTTP GET requests to `http://HOST:PORT/api?Function=...`
